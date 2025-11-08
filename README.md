@@ -20,3 +20,4 @@ the dashboard ivolves the following steps
    customize the colour and layout of the dashboard
 
 ## Dashboard:
+<a href =https://github.com/Brindha-1802/Pizza-sales-analysis/blob/main/pizza.png>view dashboard</a>
