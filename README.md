@@ -8,7 +8,7 @@ this project  shows the visual dashboard about the pizza sales data. which inclu
 
 ## procedure:
 the dashboard ivolves the following steps:
-1. ## Data conection and loading:
+1. ## Data connection and loading:
    connect to th data source(excel,sql server) containing the pizza sales data
 2. ## Data transformation:
    use the power query editor to clean and transform the data
